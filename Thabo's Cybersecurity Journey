@@ -1,0 +1,109 @@
+# 🛡️ Thabo's Cybersecurity Journey 👾
+> 📍 Ethical Hacker in Training | Red Team Focus | Cyber Warrior from the Trenches
+
+This is my **cybersecurity growth tracker**, documenting my offensive security progress — from fundamentals to red team operations. The goal is to break systems before real attackers do... and get paid for it.
+
+---
+
+## 🔰 FUNDAMENTALS CHECKLIST
+
+### 🔐 Core Knowledge
+| Topic               | Coverage        | Status         |
+|---------------------|-----------------|----------------|
+| CIA Triad           | ✅ Understood    | ✅ Complete     |
+| Types of Threats    | ✅ Covered       | ✅ Complete     |
+| OSI Model           | ✅ Studied       | ✅ Memorized    |
+| TCP/IP, Ports       | 🟡 Practicing    | In Progress    |
+| Subnetting & IPs    | 🟡 Review Needed | In Progress    |
+| DNS, DHCP, NAT      | 🟡 Mid Level     | In Progress    |
+| Firewalls & VPNs    | 🟡 Mid Level     | In Progress    |
+
+---
+
+### 🧪 Platforms + Hands-On Labs
+| Platform          | Focus Area                  | Status        |
+|-------------------|-----------------------------|---------------|
+| TryHackMe         | All-around hacking practice | ✅ Active Use |
+| Root Me           | Wargames + Vulnerabilities  | 🟡 Starting   |
+| CyberSecLabs      | Realistic Machines (Red)    | ⬜ To Explore |
+| Hack The Box      | Red Team Boxes              | ⬜ To Start   |
+| PentesterLab      | Web Exploits + Reports      | ⬜ To Explore |
+| AttackDefense     | Real-World Attack Scenarios | ⬜ On Radar   |
+| PortSwigger Labs  | OWASP Web Attacks           | ✅ Practicing |
+
+---
+
+### 💣 Tools & Exploits
+| Tool              | Purpose                      | Status         |
+|-------------------|-------------------------------|----------------|
+| Nmap              | Scanning, Enumeration         | ✅ In Use       |
+| Wireshark         | Packet Analysis               | 🟡 Mid Level    |
+| Burp Suite        | Web App Exploitation          | ✅ Practicing   |
+| Netcat            | Reverse Shells, Ports         | ⬜ Learning     |
+| Metasploit        | Exploitation Framework        | 🟡 In Progress  |
+| Hydra/John        | Brute Force / Hash Cracking   | ⬜ To Learn     |
+| Linux Terminal    | Core Navigation + Scripting   | ✅ Daily Use    |
+
+---
+
+## 🧱 RED TEAM SKILLS MAP
+
+### 👣 Attack Lifecycle Stages
+| Stage                | Status         | Practice Tools         |
+|----------------------|----------------|-------------------------|
+| Reconnaissance       | ✅ Practicing   | Nmap, whois, nslookup  |
+| Scanning & Enumeration | ✅ Practicing | Nmap, gobuster         |
+| Exploitation         | 🟡 Improving    | THM, Burp, Metasploit  |
+| Privilege Escalation | ⬜ Starting     | GTFOBins, LinPEAS      |
+| Post-Exploitation    | ⬜ To Learn     | Manual methods         |
+| Reporting            | 🟡 Drafting     | Markdown templates     |
+
+---
+
+## 🧰 Scripts & Automation (Python)
+| Task                 | Status         | Notes                      |
+|----------------------|----------------|-----------------------------|
+| Port Scanner         | ✅ Built Basic  | To improve with banner grab |
+| Brute Force Tool     | ⬜ To Build     | Add threading + CLI flags   |
+| Payload Generator    | ⬜ Planning     | For encoding + delivery     |
+| Log Parser           | ⬜ Future Tool  | Use in Blue/Red labs        |
+
+---
+
+## 📚 CERTIFICATIONS & COURSES
+
+| Course                          | Platform           | Status         |
+|----------------------------------|--------------------|----------------|
+| Intro to Cybersecurity          | Cisco NetAcad      | ✅ Completed    |
+| Ethical Hacking Fundamentals    | TryHackMe          | ✅ In Progress  |
+| Red Team Path                   | Hack The Box (HTB) | ⬜ Not Started  |
+| Web Application Security        | PortSwigger        | 🟡 In Progress  |
+| Pentesting Essentials           | INE / THM          | ⬜ Researching  |
+
+---
+
+## 🧭 WEEKLY CYBER GRIND
+
+| Day  | Task                                 |
+|------|--------------------------------------|
+| Mon  | 1 TryHackMe room (Red Team or Web)   |
+| Tue  | PortSwigger OWASP lab + report notes |
+| Wed  | Wireshark + Nmap practice            |
+| Thu  | Python scripting (1 tool or script)  |
+| Fri  | RootMe / Hack The Box (light)        |
+| Sat  | Research CVEs or read blog writeups  |
+| Sun  | Plan next sprint + GitHub update     |
+
+---
+
+## 📌 CURRENT FOCUS
+- 🧠 Privilege escalation & enumeration  
+- 🧨 Automating basic tools with Python  
+- 🧱 Building internal red team methodology playbook  
+- 🔐 Sharpening report writing for professional workflow
+
+---
+
+## 🛡️ MOTTO
+> **“Break systems. Build skills. Defend futures.”**
+
