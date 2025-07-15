@@ -1,0 +1,100 @@
+# 🧠 Thabo's Software Development Journey 🚀
+> 📍 Junior Java Dev | Future Full-Stack Engineer | Cyber Warrior in Training
+
+This is my **developer growth tracker**, documenting my progress through core fundamentals and hands-on projects. My mission is to become a skilled, project-ready software developer and ethical hacker.
+
+---
+
+## 🔰 FUNDAMENTALS CHECKLIST
+
+### 🧱 Programming Languages
+| Language     | Key Concepts                   | Status       |
+|--------------|--------------------------------|--------------|
+| Java         | OOP, Collections, MVC          | ✅ In Use     |
+| C#           | WinForms, LINQ, Events         | ✅ In Use     |
+| Python       | Scripting, OOP, Automation     | 🟡 In Progress |
+| JavaScript   | DOM, async/await, fetch API    | 🟡 In Progress |
+| SQL (MySQL/Derby) | Joins, Indexes, Procedures | ✅ In Use     |
+
+---
+
+### 📦 Data Structures & Algorithms
+| Concept               | Status         |
+|-----------------------|----------------|
+| Arrays, Lists, Stacks | ✅ Reviewed     |
+| Searching & Sorting   | 🟡 Improving    |
+| Recursion             | 🟡 Learning     |
+| Leetcode/Codewars     | ⬜ Start        |
+
+---
+
+### 💡 Software Design Patterns
+| Concept       | Status         |
+|---------------|----------------|
+| MVC           | ✅ Applied in Projects |
+| SOLID         | 🟡 Reading up   |
+| RESTful APIs  | ⬜ To Build Soon |
+| Git/GitHub    | ✅ Using Daily  |
+
+---
+
+## 🛠️ PROJECT ZONE
+
+### 🎯 Academic / Work Projects
+| Project Name                     | Stack            | Status       |
+|----------------------------------|------------------|--------------|
+| Gym Register System              | C# + SQL         | ✅ Complete   |
+| ERP for HR (Work Project)        | Java + Derby DB  | ✅ In Progress |
+| PRG361 Employee Management App   | Java (MVC)       | ✅ Building   |
+| Smart Door Motion Sensor (IoT)   | ESP32 + Arduino  | 🟡 Simulating |
+
+---
+
+### 🧪 Personal Practice Projects
+| Project Idea                 | Stack               | Status     |
+|------------------------------|---------------------|------------|
+| Expense Tracker              | JS + LocalStorage   | ⬜ To Build |
+| REST API for Task Manager    | Python + Flask      | ⬜ Planned  |
+| Portfolio Website            | HTML/CSS/JS         | ⬜ Planned  |
+| SQL Challenge Scripts        | Python + SQLite     | 🟡 In Progress |
+
+---
+
+## 🧠 PRACTICE PLATFORMS
+
+| Platform         | Focus                 | Status     |
+|------------------|------------------------|------------|
+| Exercism         | Language Practice      | ✅ Using    |
+| Codewars         | DSA Practice           | ⬜ Starting |
+| Frontend Mentor  | UI Challenges          | ⬜ Scheduled |
+| Odin Project     | Full-Stack Curriculum  | ⬜ Planning |
+| DevProjects.io   | Realistic Projects     | ⬜ Reviewing |
+| Git & GitHub     | Version Control        | ✅ Daily Use |
+
+---
+
+## 🔂 WEEKLY ROUTINE (Editable)
+
+| Day  | Activity                                  |
+|------|-------------------------------------------|
+| Mon  | Python or Java deep dive (1hr)            |
+| Tue  | Feature-building on live project (2hr)    |
+| Wed  | SQL / Data Structure practice (1hr)       |
+| Thu  | UI or API dev + Git commit                |
+| Fri  | Push updates, code cleanup                |
+| Sat  | Deploy/test or document                   |
+| Sun  | Rest + plan next sprint                   |
+
+---
+
+## 📌 CURRENT FOCUS
+- Strengthen full-stack fundamentals (Python, JS, SQL)
+- Finish ERP Java Project (Work)
+- Complete IoT Alert System simulation
+- Keep portfolio projects GitHub-ready
+
+---
+
+## ⚔️ MOTTO
+> **“Work smart. Code sharp. Build real.”**
+
