@@ -17,10 +17,10 @@ I'm currently pursuing certifications like **Cisco CyberOps** and **Introduction
 
 ## 🧰 Tech Stack
 
-- 💻 **Languages**: C#, Python, SQL, HTML
+- 💻 **Languages**: C#, Python, SQL, HTML, CSS, Java
 - 🛡️ **Cybersecurity**: Fundamentals, Penetration Testing (in progress), Secure Coding
-- 🛢️ **Database**: MySQL
-- 📊 **Tools**: Microsoft Power BI
+- 🛢️ **Database**: MySQL, MongoDB
+- 📊 **Tools**: Microsoft Power BI, Microsoft Power App, VS code, Netbean, 
 
 ---
 
@@ -35,7 +35,7 @@ I'm currently pursuing certifications like **Cisco CyberOps** and **Introduction
 
 ## 📫 Let's Connect
 
-- 📧 Email: [sibekothabo642@gmail.com](mailto:sibekothabo642@gmail.com)  
+- 📧 Email: [sibekothabo642@gmail.com](mailto:sibekothabo365@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/thabo-sibeko-b09b28278](https://www.linkedin.com/in/thabo-sibeko-b09b28278)
 
 ---
