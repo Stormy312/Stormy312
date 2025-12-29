@@ -1,108 +1,87 @@
-# 👋 Hi, I'm Thabo Sibeko  
-**Aspiring Software Developer | Cybersecurity & Cloud Enthusiast**  
+# Thabo Sibeko
+
+**Aspiring Software Developer | Data Analysis & Cloud Enthusiast**  
 📍 Johannesburg, South Africa  
+📞 068 119 8279  
+📧 sibekothabo365@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/thabo-sibeko-b09b28278) | [GitHub](https://github.com/Stormy312) | [Portfolio Website](https://stormy312.github.io/ThaboPortfolio/)
 
-📞 **068 119 8279**  
-✉️ **[sibekothabo365@gmail.com](mailto:sibekothabo365@gmail.com)**  
-🔗 [LinkedIn](https://linkedin.com/in/thabo-sibeko-b09b28278) | 💻 [GitHub](https://github.com/Stormy312) | ☁️ [AWS Skill Profile](https://skillsprofile.skillbuilder.aws/user/thabo/simulearn)
+> "A jack of all trades is a master of none, but oftentimes better than a master of one." 🌕
 
----
+## About Me
 
-## 🎯 Career Objective
-Motivated IT graduate seeking to contribute to innovative organizations through **software development**, **database management**, **cybersecurity**, and **cloud computing**.  
-I aim to apply **secure coding principles**, **creative problem-solving**, and **analytical thinking** to build impactful and scalable digital solutions.
+Motivated IT diploma student (expected graduation May 2027) with hands-on experience in software development, database management, and cybersecurity fundamentals. Skilled in building secure, scalable systems using languages like C#, Python, Java, and JavaScript.
 
----
+Passionate about secure coding, cloud technologies (AWS), and innovative projects spanning web development, IoT, and data automation. Eager to contribute to entry-level software development, data analysis, or IT roles while continuing to learn and grow.
 
-## 🧠 Profile Summary
-A driven and adaptable individual with hands-on experience in:
-- **Software Development**
-- **Database Optimization**
-- **Cybersecurity Fundamentals**
-- **Cloud Computing (AWS)**
+## Skills
 
-Currently pursuing further specialization in **Cisco CyberOps** and **CCST Cybersecurity** certifications while developing real-world secure applications.
+### Programming Languages & Frameworks
+- C#, Python, JavaScript, Java, SQL, HTML, CSS
+- .NET Windows Forms, Django (beginner through projects), Tkinter
 
----
+### Databases & Tools
+- Microsoft SQL Server, MongoDB, SQLite, Microsoft Access, Power BI
+- Visual Studio 2022, Visual Studio Code, PyCharm, IntelliJ IDEA
 
-## 💻 Core Technical Skills
+### Cybersecurity & Cloud
+- Secure coding practices, password hashing, network security fundamentals
+- AWS (via AWS Skill Builder)
 
-| Category | Skills |
-|-----------|---------|
-| **Languages** | C#, Python, JavaScript, Java, SQL, HTML, CSS |
-| **Low Code Tools** | Microsoft Power Apps, Power Automate |
-| **Databases** | SQL Server, Access, MongoDB, Power BI |
-| **Cybersecurity** | Secure Coding Practices, Network Security, Cybersecurity Fundamentals |
-| **Cloud Platforms** | AWS (via AWS Skill Builder) |
-| **Testing** | Functional & Automated Software Testing |
-| **Automation** | Python Scripting for Data Processing |
-| **Development Tools** | Visual Studio 2022, VS Code, PyCharm |
-| **Productivity Tools** | Word, Excel, PowerPoint |
+### Testing & Automation
+- Functional and automated testing
+- Python scripting for data processing and automation
 
----
+### Other
+- Microsoft Power Apps, Power Automate
+- Git & GitHub for version control
+- Agile methodology
 
-## 🧩 Projects
+## Projects
 
-### 🏋️ Gym Login & Register Management System  
-**Tech Stack:** C#, SQL, C#.NET (Windows Forms), Visual Studio 2022  
-- Developed a secure gym management system with role-based login and registration for staff and customers.  
-- Implemented **password hashing**, reducing unauthorized access risk by **40%**.  
-- Collaborated in a **three-person Agile team**.  
+### Gym Login & Register Management System
+Secure gym management system with role-based authentication for staff and customers. Implemented password hashing (reducing unauthorized access risk by 40%). Built in a three-person Agile team.  
+**Tech:** C#, SQL, .NET Windows Forms
 
-### 🌐 Portfolio Website (Ongoing)  
-**Tech Stack:** HTML, CSS, JavaScript  
-- Building a responsive personal portfolio hosted on **GitHub Pages**.  
-- Focused on secure web deployment with HTTPS and clean UI.  
+### Personal Portfolio Website
+Responsive website showcasing projects and skills, with focus on secure development and HTTPS deployment.  
+**Tech:** HTML, CSS, JavaScript  
+🔗 [Live Demo](https://stormy312.github.io/ThaboPortfolio/) | [Repository](https://github.com/Stormy312/ThaboPortfolio)
 
-> _More projects coming soon — stay tuned!_
+### Smart Door Motion Sensor & Emergency Alert System (Expo Project)
+IoT-based emergency notification system integrating ESP32 hardware, Firebase cloud database, and Power Apps interface for real-time visual/tactile alerts. Emphasized reliability, security, and accessibility.  
+**Tech:** ESP32, Arduino, Raspberry Pi, Firebase, Power Apps, IoT Sensors
 
----
+### Library Management System
+Python desktop application with Tkinter GUI for book management (CRUD operations) and SQLite database integration. Collaborated via GitHub.  
+**Tech:** Python, Tkinter, SQLite
 
-## 🎓 Education
+### Other Repositories
+- [Basic Tax System](https://github.com/Stormy312/Basic-Tax-system) – C# console application demonstrating fundamentals
+- [Checkers360 Shopping Cart](https://github.com/Stormy312/Checkers360--ShoppingCart) – Python console shopping cart app
+- [-Python-library-](https://github.com/Stormy312/-Python-library-) – Collaborative Python library project
 
-**🎓 Diploma in Information Technology (Ongoing)**  
-_Belgium Campus ITversity, Pretoria, South Africa_  
-- Specialization: Programming & Database Management  
-- Key Modules: Secure Database Management, SDLC, Network Security  
+## Education
 
-**📜 Matric Diploma (2022)**  
-_CBC Boksburg, South Africa_
+**Diploma in Information Technology**  
+Belgium Campus iTversity, Pretoria, South Africa  
+*Expected Graduation: May 2027*  
+Specialization: Programming, Database Management & Software Testing  
+Key Modules: Secure Database Management, SDLC & Agile, Network Security, Software Testing, Web Development, IoT
 
----
+**National Senior Certificate (Diploma Endorsement)**  
+Christian Brothers College Boksburg  
+*Graduated: December 2022*
 
-## 🪪 Certifications
-- 🛡️ [Cisco Networking Academy — Introduction to Cybersecurity (Issued Mar 31, 2025)](https://1drv.ms/b/s!AuxWOHavvw-okmEkdWEaxJPZt48f?e=Eiv0Pk)  
-- 🎯 Pursuing **Cisco CyberOps Associate**  
-- 🌐 Exploring **CCST Cybersecurity & Networking**  
-- 📘 Matric Diploma Certification  
+## Certifications
 
----
+- Cisco Networking Academy – Introduction to Cybersecurity (March 2025)
+- Net Campus Group – AI Fluency Course
 
-## 💡 Soft Skills
-Team Collaboration • Analytical Thinking • Adaptability • Creativity • Focus • Discipline  
+## Interests
+Cybersecurity, Cloud Computing (AWS), IoT, Gaming, Martial Arts
 
----
-
-## 🎮 Interests & Hobbies
-Cybersecurity Challenges • Cloud Projects • Gaming • Martial Arts • Digital Art • Outdoor Activities  
-
----
-
-## 🚀 Future Goals
-To advance as a **secure full-stack developer** and **cybersecurity professional**, combining programming, cloud computing, and ethical hacking to create intelligent and resilient systems.
-
----
-
-## 🤝 Let's Connect
-I’m currently open to **internship** or **graduate program** opportunities in:
-- Software Development  
-- Database Engineering & Analysis  
-- Cybersecurity  
-- Cloud Computing  
-- IT Support  
-
-💬 **Reach out:** [sibekothabo365@gmail.com](mailto:sibekothabo365@gmail.com)  
-📍 Johannesburg, South Africa  
+Feel free to explore my repositories or reach out for collaboration! 🚀
 
 ---
 
