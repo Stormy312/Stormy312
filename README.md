@@ -1,104 +1,77 @@
-# Thabo Sibeko
+# I'm Thabo Sibeko 👋
 
-**Aspiring Software Developer | Data Analysis & Cloud Enthusiast**  
-📍 Johannesburg, South Africa  
-📞 068 119 8279  
-📧 sibekothabo365@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/thabo-sibeko-b09b28278) | [GitHub](https://github.com/Stormy312) | [Portfolio Website](https://stormy312.github.io/ThaboPortfolio/)
+### Entry-Level IT Professional | Software Developer | Data Analyst
 
-> "A jack of all trades is a master of none, but oftentimes better than a master of one." 🌕
+*"A jack of all trades is a master of none, but oftentimes better than a master of one."* 🌕
 
-## About Me
+I am a meticulous and detail-oriented Information Technology diploma student (expected graduation May 2027) with hands-on experience in software development, database management, and cybersecurity fundamentals. I blend technical proficiency with innovative problem-solving, and I am highly passionate about secure coding, cloud technologies, and IoT. 
 
-Motivated IT diploma student (expected graduation May 2027) with hands-on experience in software development, database management, and cybersecurity fundamentals. Skilled in building secure, scalable systems using languages like C#, Python, Java, and JavaScript.
-
-Passionate about secure coding, cloud technologies (AWS), and innovative projects spanning web development, IoT, and data automation. Eager to contribute to entry-level software development, data analysis, or IT roles while continuing to learn and grow.
-
-## Skills
-
-### Programming Languages & Frameworks
-- C#, Python, JavaScript, Java, SQL, HTML, CSS
-- .NET Windows Forms, Django (beginner through projects), Tkinter
-
-### Databases & Tools
-- Microsoft SQL Server, MongoDB, SQLite, Microsoft Access, Power BI
-- Visual Studio 2022, Visual Studio Code, PyCharm, IntelliJ IDEA
-
-### Cybersecurity & Cloud
-- Secure coding practices, password hashing, network security fundamentals
-- AWS (via AWS Skill Builder)
-
-### Testing & Automation
-- Functional and automated testing
-- Python scripting for data processing and automation
-
-### Other
-- Microsoft Power Apps, Power Automate
-- Git & GitHub for version control
-- Agile methodology
-
-## Projects
-
-### Gym Login & Register Management System
-Secure gym management system with role-based authentication for staff and customers. Implemented password hashing (reducing unauthorized access risk by 40%). Built in a three-person Agile team.  
-**Tech:** C#, SQL, .NET Windows Forms
-
-### Personal Portfolio Website
-Responsive website showcasing projects and skills, with focus on secure development and HTTPS deployment.  
-**Tech:** HTML, CSS, JavaScript  
-🔗 [Live Demo](https://stormy312.github.io/ThaboPortfolio/) | [Repository](https://github.com/Stormy312/ThaboPortfolio)
-
-### Smart Door Motion Sensor & Emergency Alert System (Expo Project)
-IoT-based emergency notification system integrating ESP32 hardware, Firebase cloud database, and Power Apps interface for real-time visual/tactile alerts. Emphasized reliability, security, and accessibility.  
-**Tech:** ESP32, Arduino, Raspberry Pi, Firebase, Power Apps, IoT Sensors
-
-### Library Management System
-Python desktop application with Tkinter GUI for book management (CRUD operations) and SQLite database integration. Collaborated via GitHub.  
-**Tech:** Python, Tkinter, SQLite
-
-### Other Repositories
-- [Basic Tax System](https://github.com/Stormy312/Basic-Tax-system) – C# console application demonstrating fundamentals
-- [Checkers360 Shopping Cart](https://github.com/Stormy312/Checkers360--ShoppingCart) – Python console shopping cart app
-- [-Python-library-](https://github.com/Stormy312/-Python-library-) – Collaborative Python library project
-
-## Education
-
-**Diploma in Information Technology**  
-Belgium Campus iTversity, Pretoria, South Africa  
-*Expected Graduation: May 2027*  
-Specialization: Programming, Database Management & Software Testing  
-Key Modules: Secure Database Management, SDLC & Agile, Network Security, Software Testing, Web Development, IoT
-
-**National Senior Certificate (Diploma Endorsement)**  
-Christian Brothers College Boksburg  
-*Graduated: December 2022*
-
-## Certifications
-
-- Cisco Networking Academy – Introduction to Cybersecurity (March 2025)
-- Net Campus Group – AI Fluency Course
-
-## Interests
-Cybersecurity, Cloud Computing (AWS), IoT, Gaming, Martial Arts
-
-Feel free to explore my repositories or reach out for collaboration! 🚀
+Recognized for clear communication and a proactive approach, I am always ready to step into leadership roles to drive collaborative success and deliver high-quality technical solutions.
 
 ---
 
-⭐ _“Led by the Lord on a straight path, I walk with discipline and peace — learning His way, avoiding strife, and standing firm through every challenge.”(combines the wisdom of Psalm 27:11 and Proverbs 20:3)_  
+### 🚀 What I'm Up To
+- 🔭 **I’m currently working on:** Developing a website for Dikarabo Industries preparing for a full production launch.
+- 🌱 **I’m currently learning:** The Spring Framework, building Express.js API endpoints, and advanced PostgreSQL normalization and concurrency control for production-level projects.
+- 💼 **Looking for:** Junior roles in Software Development, Data Analysis, IT Support, or Test Analysis.
+- ⚡ **Fun fact:** When I'm not coding, you'll find me hitting the gym, gaming, practicing martial arts, or exploring cloud computing via AWS.
 
+---
 
-<!--
-**Stormy312/Stormy312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tech Stack & Skills
 
-Here are some ideas to get you started:
+**Programming Languages & Frameworks**
+- `Python` | `C#` | `Java` | `JavaScript`
+- `HTML5` | `CSS3` | `Django` | `.NET Windows Forms` | `Tkinter` | `Express.js` | `Spring`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Data Analysis & Databases**
+- `SQL` | `PostgreSQL` | `Microsoft SQL Server` | `MongoDB` | `SQLite` | `Power BI` 
+
+**IT Operations, Cloud & Cybersecurity**
+- `AWS` | `Firebase` | `IoT Sensors (ESP32/Raspberry Pi)` | `Secure Coding Practices` 
+- `Functional & Automated Testing` | `IT Customer Support Basics` | `Agile Methodology`
+
+---
+
+### 📂 Featured Projects
+
+#### 🚨 [Smart Door Motion Sensor & Emergency Alert System (Expo Project)]()
+IoT-based emergency notification system integrating ESP32 hardware, Firebase cloud database, and Power Apps interface for real-time visual and tactile alerts. 
+* **Tech:** ESP32, Arduino, Raspberry Pi, Firebase, Power Apps, IoT Sensors.
+
+#### 🏋️ [Gym Login & Register Management System]()
+A secure gym management system with role-based authentication for staff and customers. Implemented password hashing to reduce unauthorized access risk. Built collaboratively in a three-person Agile team.
+* **Tech:** C#, SQL, .NET Windows Forms.
+
+#### 📚 [Library Management System]()
+A Python desktop application with a Tkinter GUI for complete book management (CRUD operations) integrated with an SQLite database. 
+* **Tech:** Python, Tkinter, SQLite.
+
+#### 🌐 [Personal Portfolio Website]()
+A fully responsive portfolio website showcasing my technical capabilities, cybersecurity projects, and software development skills, deployed over HTTPS.
+* **Tech:** HTML, CSS, JavaScript.
+
+#### 🛒 Other Notable Repositories:
+* **Basic Tax System:** C# console application demonstrating fundamentals.
+* **Checkers360 Shopping Cart:** Python console shopping cart app.
+* **Python-Library:** Collaborative Python library project.
+
+---
+
+### 🎓 Education & Certifications
+* **Diploma in Information Technology** - Belgium Campus ITversity *(Expected May 2027)*
+  * *Specialization:* Programming, Database Management & Software Testing.
+* **IT Customer Support Basics** - Cisco Networking Academy *(March 2026)*
+* **Introduction to Cybersecurity** - Cisco Networking Academy *(March 2025)*
+* **AI Fluency Course** - NetCampus Group *(June 2025)*
+
+---
+
+### 📫 Let's Connect!
+<p>
+  <a href="mailto:sibekothabo365@gmail.com">📧 sibekothabo365@gmail.com</a> •
+  <a href="https://linkedin.com/in/your-linkedin-profile">🔗 LinkedIn</a> •
+  <a href="https://your-portfolio-website.com">🌐 Portfolio Website</a>
+</p>
+
+> *"Led by the Lord on a straight path, I walk with discipline and peace — learning His way, avoiding strife, and standing firm through every challenge."* ⭐
